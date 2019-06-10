@@ -62,4 +62,8 @@ public class OracleDemo {
         statement.close();
         conn.close();
     }
+
+    public void aaa(){
+        System.out.println("hehe...");
+    }
 }
